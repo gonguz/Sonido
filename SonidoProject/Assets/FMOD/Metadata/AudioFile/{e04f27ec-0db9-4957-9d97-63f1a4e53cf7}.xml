@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e04f27ec-0db9-4957-9d97-63f1a4e53cf7}">
+		<property name="assetPath">
+			<value>TERREMOTO/y2mate.com - realistic_earthquake_sound_effect_high_quality_mgLBmLoL2Aw.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>21.263673469387754</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7de3b8e0-c261-4f97-a7c8-22827c1e8491}</destination>
+		</relationship>
+	</object>
+</objects>

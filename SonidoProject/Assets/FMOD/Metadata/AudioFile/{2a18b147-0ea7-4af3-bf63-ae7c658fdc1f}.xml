@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{2a18b147-0ea7-4af3-bf63-ae7c658fdc1f}">
+		<property name="assetPath">
+			<value>EXPLOSION/Water/explUnderWater.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.0500226757369613</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7de3b8e0-c261-4f97-a7c8-22827c1e8491}</destination>
+		</relationship>
+	</object>
+</objects>

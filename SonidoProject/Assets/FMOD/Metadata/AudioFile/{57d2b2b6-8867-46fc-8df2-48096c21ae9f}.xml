@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{57d2b2b6-8867-46fc-8df2-48096c21ae9f}">
+		<property name="assetPath">
+			<value>AGUA/Pouring_Water_01_Sound_Effect_Mp3_384.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.0489795918367344</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7de3b8e0-c261-4f97-a7c8-22827c1e8491}</destination>
+		</relationship>
+	</object>
+</objects>
